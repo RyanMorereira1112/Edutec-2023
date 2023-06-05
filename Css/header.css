@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  .mudancas {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      justify-content: flex-end;
+      margin-bottom: 1.5rem;
+      margin-right: 3rem;
+      margin-left: 2rem;
+      font-size: 1.3rem;
+  }
+
+  .mudancaclimatica{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: flex-end;
+  }
